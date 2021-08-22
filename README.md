@@ -1,3 +1,3 @@
 # Yahtzee
 
-# One player Yahtzee game from scratch
+One player Yahtzee game from scratch
